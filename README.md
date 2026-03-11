@@ -81,6 +81,6 @@ Natural Language Processing (NLP) techniques for document understanding
 Web frameworks for building the user interface
 
 errors:
-in embedding
-in llms
-in upload file
+1.in embedding
+2.in llms
+3.in upload file
